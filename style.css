@@ -1,12 +1,16 @@
+*{
+    margin:0px;
+    padding:0px;
+}
 .navbar{
-    background-color: #ABEBC6 !important;
+    background-color: lightcyan !important;
     padding:20px 200px;
 }
-.row{
-    background-color: #ABEBC6 !important;
+.section1{
+    background-color: lightcyan !important;
     padding:20px 200px;
 }
-.row img{
+.upperimg{
     width:100%;
 }
 span{
@@ -14,4 +18,20 @@ span{
 }
 .paragraph1{
     color:red;
+}
+.container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.cat1,.cat2,.cat3,.cat4{
+    height:300px;
+    text-align:center;
+    border-radius:20px;
+}
+.cat1,.cat3,.cat4{
+    background-color: lightcyan;
+
+}
+.cat2{
+    box-shadow: 5px 5px 10px gray;
 }
