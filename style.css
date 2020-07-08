@@ -35,3 +35,20 @@ span{
 .cat2{
     box-shadow: 5px 5px 10px gray;
 }
+.section3 h1{
+    text-align:center;
+}
+.section3 h5{
+    font-weight: 700;
+    font-size:25px;
+}
+.section3 p{
+    color:dimgray;
+}
+.card{
+    border:none;
+}
+.card-footer{
+    border-top:none;
+    background-color:white;
+}
