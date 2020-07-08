@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #ABEBC6 !important;
+    padding:20px 200px;
+}
+.row{
+    background-color: #ABEBC6 !important;
+    padding:20px 200px;
+}
+.row img{
+    width:100%;
+}
+span{
+    color:green;
+}
+.paragraph1{
+    color:red;
+}
