@@ -20,8 +20,8 @@ span{
     color:red;
 }
 .container{
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 100px;
+    margin-bottom: 150px;
 }
 .cat1,.cat2,.cat3,.cat4{
     height:300px;
@@ -51,4 +51,10 @@ span{
 .card-footer{
     border-top:none;
     background-color:white;
+}
+
+.section5 h1{
+    text-align:center;
+    margin-bottom:50px;
+    font-weight:700;
 }
